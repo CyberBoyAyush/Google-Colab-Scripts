@@ -13,5 +13,6 @@ Google Colab Script For Various Types Of Data Transfer ❤️❤️
 * Content_Transfer_GUI.ipynb For Google Drive Trasfer
 * Google_Drive_to_Mega_Transfer.ipynb For Google Drive To Mega
 * Mega_to_Google_Drive_Transfer.ipynb For Mega To GDrive
+* Torrent_To_GDrive.ipynb For Downloding Torrent To Gdrive With Teamdrive Support
 
 # This Repo Is Made By [@CyberBoyAyush](https://telegram.dog/cyberboyayush) 🔥
